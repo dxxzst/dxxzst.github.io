@@ -73,10 +73,10 @@ deploy:
   branch: master 
   
 # hexo-admin
-admin:
-  username: dxxzst
-  password_hash: $2a$10$hbp3LSYD4Sky4Nwynq/vAeZxSXHCScRNqREN9P7DUjpr2DvfAaDD2
-  secret: nozuonodie
+#admin:
+  #username: dxxzst
+  3password_hash: $2a$10$hbp3LSYD4Sky4Nwynq/vAeZxSXHCScRNqREN9P7DUjpr2DvfAaDD2
+  #secret: nozuonodie
 
 search:
   path: search.xml
